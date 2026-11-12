@@ -1,0 +1,5 @@
+* text=auto
+*.cmd text eol=crlf
+
+# Vendored third-party files stay byte-for-byte identical to upstream.
+third_party/** -text

@@ -1,0 +1,14 @@
+# Build output
+/out/
+/build/
+*.obj
+*.exp
+*.lib
+*.pdb
+*.dll
+*.so
+*.dylib
+
+# Python
+__pycache__/
+*.pyc
